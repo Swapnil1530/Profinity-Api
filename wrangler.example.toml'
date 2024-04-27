@@ -1,0 +1,6 @@
+name = "any project name"
+compatibility_date = "date"
+
+[vars]
+VECTOR_URL = ""
+VECTOR_TOKEN = ""
